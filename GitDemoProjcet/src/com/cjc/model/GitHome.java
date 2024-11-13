@@ -16,6 +16,10 @@ public class GitHome
 	{
 		System.out.println("this is M3 method");
 	}
+	public void m4()
+	{
+		System.out.println("this is M4 method");
+	}
    
 	public static void main(String[] args) 
 	{
